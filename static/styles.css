@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+body{
+    background-color: white ;
+    color: #000;
+}
+
+.title{
+    color: red;
+    font-size: larger;
+}
+.user-area{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
